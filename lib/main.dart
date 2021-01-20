@@ -38,7 +38,8 @@ class _CryingMeState extends State<CryingMe> {
                 Text(
                   'Click on the picture until you see me crying!',
                   style: TextStyle(
-                    fontWeight: FontWeight.w400,
+                    fontWeight: FontWeight.bold,
+                    fontSize: 20.0,
                     color: Colors.white,
                   ),
                 ),
